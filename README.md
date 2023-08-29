@@ -1,4 +1,4 @@
-# &#x1F374; Recipe Finder &#x1F374;
+# &#x1F374; Pantry Pal &#x1F374;
 
 By: Casey Hill, Eva Kemp, Joshua Khan, Shanay Mohamed, Lindsay Warr
 
